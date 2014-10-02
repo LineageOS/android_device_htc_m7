@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_b9147044",
+        "filename": "device.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-10-02T07:08:59Z",
+      "side": 1,
+      "message": "Please alphabetize the packages:\n\nFM2\n\nFMRecord\n\nlibqcomfm_jni\n\nqcom.fmradio",
+      "revId": "b8c73b3f541cc1fe407c83c545cb8d2edd63fa3e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
