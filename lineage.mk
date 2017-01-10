@@ -1,3 +1,4 @@
+# Copyright (C) 2017 The LineageOS Project
 # Copyright (C) 2016 The CyanogenMod Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -14,11 +15,11 @@
 
 $(call inherit-product, device/htc/m7/full_m7.mk)
 
-# Inherit CM full phone configuration
+# Inherit Lineage full phone configuration
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 # Device naming
-PRODUCT_NAME := cm_m7
+PRODUCT_NAME := lineage_m7
 
 # Override build props
 PRODUCT_BUILD_PROP_OVERRIDES += \
